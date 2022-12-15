@@ -1,0 +1,1 @@
+web: gunicorn papercorner.wsgi --log-file -
